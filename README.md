@@ -78,10 +78,8 @@ pip install tensorflow numpy matplotlib opencv-python
 - The AlexNet and ResNet-like models print their architecture summaries.
 
 ---
-
-## License
-This project is for educational purposes. Feel free to use and modify it.
-
+Video Link 
+https://drive.google.com/file/d/1x5V0Lv9gVB5cfXf3DK7g_LpumPxG8zJM/view?usp=sharing
 ---
 
 
